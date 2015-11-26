@@ -22,6 +22,12 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
+
 this is a test !
 
+<<<<<<< HEAD
 mahesh one more test
+=======
+mahesh
+
+>>>>>>> a23500ffeba020bb13faf0e0212a02bd48c935e0
